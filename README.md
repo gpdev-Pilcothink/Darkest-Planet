@@ -62,6 +62,7 @@
 | :------------: |
 | 팀장 : 문경필|
 |  ****1548 |
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
 
 #### 🎮 유니티
 | :------------: |
