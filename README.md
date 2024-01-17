@@ -59,9 +59,10 @@
 ---
 ## 👥팀 소개
 #### 🎮 유니티
+|   Unity |
 | :------------: |
 | 팀장 : 문경필|
-|  ****1548 |
+|  ****1570 |
 | [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/gpdev-Pilcothink) |
 
 
