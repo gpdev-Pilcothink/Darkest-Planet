@@ -62,7 +62,7 @@
 |   Unity |
 | :------------: |
 | 팀장 : 문경필|
-|  ****1570 |
+|  ****1548 |
 | [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/gpdev-Pilcothink) |
 
 
@@ -75,8 +75,9 @@
 <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white">
 
 #### 🎮 유니티
+|   Unity |
 | :------------: |
-|  박승완|
+| 박승완|
 |  ****1552 |
 
 🛠️ **Tools and Technologies :** <br><br>
